@@ -4,7 +4,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 
 
-$host = '127.0.0.1';
+$host = 'localhost';
 $db   = 'todo';
 $user = 'user';
 $pass = 'user123';
